@@ -1,0 +1,47 @@
+# 许可协议
+
+本项目分为两部分，适用不同的许可条款。
+
+---
+
+## 第一部分：源代码（`*.py` 及相关脚本）
+
+MIT License
+
+Copyright (c) 2025 Ruanftrix
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 第二部分：游戏资源（`assets/` 目录）
+
+Copyright © Nintendo. All Rights Reserved.
+
+本项目 `assets/` 目录下的所有图片、音频、字体等资源文件（包括但不限于 sprite 图、背景、BGM、音效、字体、图标）均为 Nintendo 的版权资产。
+
+这些资源文件 **不得** 用于任何商业目的，不得在未经 Nintendo 书面许可的情况下进行再分发、再授权或公开展示。本项目仅出于学习、研究和存档目的使用这些资源。
+
+如果你是 Nintendo 的版权持有者或其授权代表，并认为本项目中的资源使用侵犯了你的权益，请通过 GitHub Issues 联系，我们会尽快处理。
+
+---
+
+## 第三部分：项目整体
+
+分发本项目时，必须保留本 LICENSE 文件的完整内容，明确区分源代码和游戏资源的许可条款。

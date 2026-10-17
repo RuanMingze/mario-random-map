@@ -114,4 +114,9 @@ F11   +50 coins            F12   +3 lives
 
 ## 📜 License
 
-仅供学习参考，游戏素材版权归 Nintendo 所有。
+本项目采用分层许可，详见 [LICENSE](LICENSE) 文件：
+
+| 部分 | 许可 |
+|------|------|
+| Python 源代码 | **MIT License** — 可自由使用、修改、分发 |
+| `assets/` 目录 | **© Nintendo. All Rights Reserved.** — 仅限学习/研究用途，不得商用 |
