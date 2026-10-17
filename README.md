@@ -23,7 +23,7 @@
 
 ```bash
 # 安装依赖
-pnpm install pygame pillow  # 或: pip install pygame pillow
+pip install pygame pillow
 
 # 正常启动
 python mario.py
